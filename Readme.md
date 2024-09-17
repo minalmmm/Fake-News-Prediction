@@ -26,11 +26,12 @@ The app is built using a dataset with the following columns:
 
 ### App Overview
 
-![App Overview](/Screenshot 2024-09-17 152619.png)
+![App Overview](images/screenshot_2024_09_17_152619.png)
 
 ### News Prediction
 
-![News Prediction](/Screenshot%202024-09-17%20152707.png)
+![News Prediction](images/screenshot_2024_09_17_152707.png)
+
 
 
 
