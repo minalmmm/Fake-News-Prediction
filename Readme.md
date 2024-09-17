@@ -24,10 +24,13 @@ The app is built using a dataset with the following columns:
 
 ## Screenshots
 
+## Screenshots
+
 ### App Overview
 
-![App Overview](https://github.com/minalmmm/Fake-News-Prediction/blob/main/my_streamlit1_app/images/Screenshot%202024-09-17%20152619.png)
+![App Overview](my_sreamlit1_app/images/Screenshot%202024-09-17%20152619.png)
 
 ### News Prediction
 
-![News Prediction](https://github.com/minalmmm/Fake-News-Prediction/blob/main/my_streamlit1_app/images/Screenshot%202024-09-17%20152707.png)
+![News Prediction](my_sreamlit1_app/images/Screenshot%202024-09-17%20152707.png)
+
