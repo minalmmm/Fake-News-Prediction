@@ -26,11 +26,11 @@ The app is built using a dataset with the following columns:
 
 ### App Overview
 
-![App Overview](images/screenshot_2024_09_17_152619.png)
+![images](my_streamlit_app/images/screenshot_2024_09_17_152619.png)
 
 ### News Prediction
 
-![News Prediction](images/screenshot_2024_09_17_152707.png)
+![images](my_streamlit_app/images/screenshot_2024_09_17_152707.png)
 
 
 
