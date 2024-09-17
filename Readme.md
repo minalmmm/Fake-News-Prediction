@@ -26,10 +26,10 @@ The app is built using a dataset with the following columns:
 
 ### App Overview
 
-![images](C:\data science material\NLP\my_sreamlit1_app\images\Screenshot 2024-09-17 152619.png)
+![images](images\Screenshot 2024-09-17 152619.png)
 
 ### News Prediction
 
-![images](iC:\data science material\NLP\my_sreamlit1_app\images\Screenshot 2024-09-17 152707.png)
+![images](images\Screenshot 2024-09-17 152707.png)
 
 
